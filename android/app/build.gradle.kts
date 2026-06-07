@@ -9,7 +9,6 @@ android {
     namespace = "com.kingzprime.kingzprime_wallet_test"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
-
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
